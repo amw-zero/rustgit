@@ -1,0 +1,2 @@
+# rustgit
+git in rust
